@@ -1,0 +1,26 @@
+<snippet>
+	<content><![CDATA[
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no, minimal-ui" />
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	<meta name="language" content="fr" />
+	<title>${1:Mon super titre}</title>
+	<link rel="stylesheet" href="${2:css/style.css}">
+</head>
+<body>
+	<div>
+		${4:Mon super contenu}
+	</div>
+	<script src="${3:js/app.js}"></script>
+</body>
+</html>
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>html5</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>text.html</scope>
+</snippet>
