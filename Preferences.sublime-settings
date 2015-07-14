@@ -1,8 +1,15 @@
 {
 	"dictionary": "Packages/Language - French - Français/fr_FR.dic",
-	"font_size": 13,
+	"font_size": 14,
 	"ignored_packages":
 	[
 		"Vintage"
-	]
+	],
+	"line_padding_bottom": 2,
+	"line_padding_top": 2,
+	"open_files_in_new_window": false,
+	"tab_size": 4,
+	"translate_tabs_to_spaces": false,
+	"trim_trailing_white_space_on_save": true,
+	"word_wrap": true
 }

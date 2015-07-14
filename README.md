@@ -5,4 +5,5 @@ Ce dépôt me permet de récupérer très rapidement mes réglages pour Sublime 
 
 Utile à savoir :
  * Il faut installer le [Package Control](https://packagecontrol.io/installation), pour que les extensions s'installent automatiquement
+ * Ces préférences sont à placer dans le dossier **User** du dossier **Packages**.
  * N'hésitez surtout pas à utiliser et à personnaliser ces préférences à votre convenance !

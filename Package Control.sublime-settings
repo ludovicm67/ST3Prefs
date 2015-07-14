@@ -1,9 +1,12 @@
 {
+	"in_process_packages":
+	[
+	],
 	"installed_packages":
 	[
-		"3024 Color Scheme",
 		"AdvancedNewFile",
 		"Alignment",
+		"BracketHighlighter",
 		"Color Highlighter",
 		"ColorPicker",
 		"Emmet",
@@ -11,6 +14,7 @@
 		"LiveReload",
 		"Oddly",
 		"Package Control",
-		"SideBarEnhancements"
+		"SideBarEnhancements",
+		"Terminal"
 	]
 }
