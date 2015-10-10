@@ -1,0 +1,20 @@
+<snippet>
+	<content><![CDATA[
+
+namespace ${1:NameSpace};
+
+class ${2:ClassName}${3: extends AnotherClass} {
+
+	${6://My variables}
+
+	public function __construct(${4:Args...}) {
+		${5://My Code Here !}
+	}
+
+	${7://Rest of the code goes here...}
+
+}
+]]></content>
+    <scope>source.php</scope>
+	<tabTrigger>cl</tabTrigger>
+</snippet>
