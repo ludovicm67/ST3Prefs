@@ -7,3 +7,8 @@ Utile à savoir :
  * Il faut installer le [Package Control](https://packagecontrol.io/installation), pour que les extensions s'installent automatiquement
  * Ces préférences sont à placer dans le dossier **User** du dossier **Packages**.
  * N'hésitez surtout pas à utiliser et à personnaliser ces préférences à votre convenance !
+
+ # Mes snippets :
+ * `html5+TAB` => Génération d'une page HTML5 basique
+ * `cc+TAB` => Permet d'insérer un commentaire dans du code PHP (même fonctionnement que `/**+TAB`)
+ * `cl+TAB` => Permet de générer le squelette d'une classe PHP, gain de temps non négligeable !
