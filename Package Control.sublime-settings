@@ -1,19 +1,25 @@
 {
+	"bootstrapped": true,
 	"in_process_packages":
 	[
 	],
 	"installed_packages":
 	[
+		"1337 Color Scheme",
 		"AdvancedNewFile",
 		"Alignment",
 		"BracketHighlighter",
 		"Color Highlighter",
 		"ColorPicker",
 		"Emmet",
+		"Git",
+		"Jade",
+		"Jade Snippets",
 		"Language - French - Français",
 		"LiveReload",
 		"Oddly",
 		"Package Control",
+		"SCSS",
 		"SideBarEnhancements",
 		"Terminal"
 	]
