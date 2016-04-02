@@ -1,0 +1,16 @@
+<snippet>
+	<content><![CDATA[
+* {
+	box-sizing: border-box;
+	margin: 0;
+	padding: 0;
+}
+body {
+	font-family: sans-serif;
+	font-size: 16px;
+}
+
+]]></content>
+	<tabTrigger>**</tabTrigger>
+	<scope>source.css</scope>
+</snippet>
