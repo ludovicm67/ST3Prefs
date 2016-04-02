@@ -11,6 +11,9 @@ Ce dépôt me permet de récupérer très rapidement mes réglages pour [Sublime
  * `html5+TAB` => Génération d'une page HTML5 basique
  * `cc+TAB` => Permet d'insérer un commentaire dans du code PHP (même fonctionnement que `/**+TAB`)
  * `cl+TAB` => Permet de générer le squelette d'une classe PHP, gain de temps non négligeable !
+ * `** + TAB` => Reset minimaliste + règles de base en CSS
+ * `dd + TAB` => Écrit `document.` sur les fichiers JavaScript
+ * `qs + TAB` => idem, mais avec `querySelector('');`
 
 
 N'hésitez surtout pas à utiliser et à personnaliser ces préférences à votre convenance !
