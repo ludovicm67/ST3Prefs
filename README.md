@@ -14,6 +14,7 @@ Ce dépôt me permet de récupérer très rapidement mes réglages pour [Sublime
  * `** + TAB` => Reset minimaliste + règles de base en CSS
  * `dd + TAB` => Écrit `document.` sur les fichiers JavaScript
  * `qs + TAB` => idem, mais avec `querySelector('');`
+ * `cl + TAB` => idem, mais avec `console.log();`
 
 
 N'hésitez surtout pas à utiliser et à personnaliser ces préférences à votre convenance !
