@@ -23,10 +23,13 @@ Ce dépôt me permet de récupérer très rapidement mes réglages pour [Sublime
 
 ### JavaScript
 
- * `dd + TAB`  => Écrit `document.`
- * `qs + TAB`  => idem, mais avec `querySelector('');`
- * `qsa + TAB` => idem, mais avec `querySelectorAll('');`
- * `cl + TAB`  => idem, mais avec `console.log();`
+Raccourcis permettant d'écrire des éléments assez longs, et qu'on a souvent besoin :
+
+ * `ce + TAB`  => `createElement('');`
+ * `cl + TAB`  => `console.log();`
+ * `dd + TAB`  => `document.`
+ * `qs + TAB`  => `querySelector('');`
+ * `qsa + TAB` => `querySelectorAll('');`
 
 ### PHP
 
@@ -35,6 +38,10 @@ Ce dépôt me permet de récupérer très rapidement mes réglages pour [Sublime
 ### Autres
 
  * `cc+TAB` => Permet d'insérer un commentaire dans du code PHP ou JavaScript (même fonctionnement que `/**+TAB`)
+
+## Raccourcis
+
+ * `CTRL + ALT + A` => Utilise Alignment pour aligner certains éléments
 
 
 N'hésitez surtout pas à utiliser et à personnaliser ces préférences à votre convenance !
