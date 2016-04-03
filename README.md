@@ -9,7 +9,7 @@ Ce dépôt me permet de récupérer très rapidement mes réglages pour [Sublime
  * Installez le [Package Control](https://packagecontrol.io/installation), pour que les extensions s'installent automatiquement
  * Ouvrez Sublime Text et attendez quelques secondes
  * That's it !
- * ...et pour rester à jour, faites régulièrement un `git pull` ;)
+ * ...et pour rester à jour, faites régulièrement un `git pull` :wink:
 
 ## Mes snippets :
 
