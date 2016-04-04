@@ -13,6 +13,11 @@ Ce dépôt me permet de récupérer très rapidement mes réglages pour [Sublime
 
 ## Mes snippets :
 
+### C
+
+ * `dg + TAB` => Commentaires Doxygen pour fonction
+ * `dgi + TAB` => Commentaires Doxygen pour fichier
+
 ### CSS
 
  * `** + TAB` => Reset minimaliste + règles de base en CSS
