@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[/**
+ * \fn $1;
+ * ${2:Description de la fonction}
+ * \param $3
+ * \return $4
+ **/]]></content>
+	<scope>source.cs, source.c++, source.c</scope>
+	<tabTrigger>dg</tabTrigger>
+</snippet>
