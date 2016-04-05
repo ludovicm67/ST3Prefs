@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+addEventListener('${1:click}', function () {
+	${2:// Contenu de la fonction}
+});
+]]></content>
+    <scope>source.js</scope>
+	<tabTrigger>ael</tabTrigger>
+</snippet>
