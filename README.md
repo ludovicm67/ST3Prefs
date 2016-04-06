@@ -30,10 +30,12 @@ Ce dépôt me permet de récupérer très rapidement mes réglages pour [Sublime
 
 Raccourcis permettant d'écrire des éléments assez longs, et qu'on a souvent besoin :
 
- * `ael + TAB` => `addEventListener(...);`
+ * `ael + TAB` => `addEventListener(...);` 
+ * `ac + TAB`  => `appendChild();`
  * `ce + TAB`  => `createElement('');`
  * `cl + TAB`  => `console.log();`
  * `dd + TAB`  => `document.`
+ * `ih + TAB`  => `innerHTML`
  * `qs + TAB`  => `querySelector('');`
  * `qsa + TAB` => `querySelectorAll('');`
 
