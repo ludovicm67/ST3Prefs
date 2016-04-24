@@ -1,7 +1,7 @@
 <snippet>
 	<content><![CDATA[/**
  * \file $1
- * ${2:Description du fichier}
+ * \brief ${2:Description du fichier}
  * \author ${3:ludovicm67}
  **/]]></content>
 	<scope>source.cs, source.c++, source.c</scope>

@@ -1,7 +1,7 @@
 <snippet>
 	<content><![CDATA[/**
  * \fn $1;
- * ${2:Description de la fonction}
+ * \brief ${2:Description de la fonction}
  * \param $3
  * \return $4
  **/]]></content>
