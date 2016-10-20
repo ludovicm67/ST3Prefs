@@ -13,7 +13,6 @@
 		"ColorPicker",
 		"DoxyDoc",
 		"Emmet",
-		"FTPSync",
 		"Git",
 		"Hayaku - tools for writing CSS faster",
 		"INI",
@@ -22,9 +21,15 @@
 		"Language - French - Français",
 		"Markdown Extended",
 		"MarkdownLight",
+		"Merlin",
 		"Oddly",
 		"Package Control",
 		"SCSS",
-		"SideBarEnhancements"
+		"SideBarEnhancements",
+		"Theme - Piatto"
+	],
+	"repositories":
+	[
+		"https://github.com/titoBouzout/SideBarEnhancements/tree/st3"
 	]
 }
