@@ -24,28 +24,28 @@ Ce dépôt me permet de récupérer très rapidement mes réglages pour [Sublime
 
 ### HTML
 
- * `html5+TAB` => Génération d'une page HTML5 basique
+ * `html5 + TAB` => Génération d'une page HTML5 basique
 
 ### JavaScript
 
 Raccourcis permettant d'écrire des éléments assez longs, et qu'on a souvent besoin :
 
- * `ael + TAB` => `addEventListener(...);` 
- * `ac + TAB`  => `appendChild();`
- * `ce + TAB`  => `createElement('');`
- * `cl + TAB`  => `console.log();`
+ * `ael + TAB` => `addEventListener(...)` 
+ * `ac + TAB`  => `appendChild()`
+ * `ce + TAB`  => `createElement('')`
+ * `cl + TAB`  => `console.log()`
  * `dd + TAB`  => `document.`
  * `ih + TAB`  => `innerHTML`
- * `qs + TAB`  => `querySelector('');`
- * `qsa + TAB` => `querySelectorAll('');`
+ * `qs + TAB`  => `querySelector('')`
+ * `qsa + TAB` => `querySelectorAll('')`
 
 ### PHP
 
- * `cl+TAB` => Permet de générer le squelette d'une classe PHP, gain de temps non négligeable !
+ * `cl + TAB` => Permet de générer le squelette d'une classe PHP, gain de temps non négligeable !
 
 ### Autres
 
- * `cc+TAB` => Permet d'insérer un commentaire dans du code PHP ou JavaScript (même fonctionnement que `/**+TAB`)
+ * `cc + TAB` => Permet d'insérer un commentaire dans du code PHP ou JavaScript (même fonctionnement que `/**+TAB`)
 
 ## Raccourcis
 
