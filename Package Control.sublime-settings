@@ -13,21 +13,26 @@
 		"Color Highlighter",
 		"ColorPicker",
 		"DoxyDoc",
+		"EditorConfig",
 		"Emmet",
 		"Git",
 		"Hayaku - tools for writing CSS faster",
 		"INI",
 		"Jade",
 		"Jade Snippets",
+		"JSHint Gutter",
 		"Language - French - Français",
+		"Laravel Blade Highlighter",
 		"Markdown Extended",
 		"MarkdownLight",
 		"Merlin",
+		"MIPS Syntax",
 		"Oddly",
 		"Package Control",
 		"SCSS",
 		"SideBarEnhancements",
-		"Theme - Piatto"
+		"Theme - Piatto",
+		"Vuejs Complete Package"
 	],
 	"repositories":
 	[
