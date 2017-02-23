@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+public class ${1:ClassName} {
+	$2
+}
+]]></content>
+	<scope>source.java</scope>
+	<tabTrigger>pc</tabTrigger>
+</snippet>

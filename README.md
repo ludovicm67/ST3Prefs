@@ -26,6 +26,12 @@ Ce dépôt me permet de récupérer très rapidement mes réglages pour [Sublime
 
  * `html5 + TAB` => Génération d'une page HTML5 basique
 
+### Java
+
+ * `main + TAB` => méthode main
+ * `pc + TAB` => base pour une classe publique
+ * `sop + TAB` => `System.out.println("")`
+
 ### JavaScript
 
 Raccourcis permettant d'écrire des éléments assez longs, et qu'on a souvent besoin :
