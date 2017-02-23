@@ -16,15 +16,15 @@
 <key>name</key>
 <string>mon_color</string>
 <key>scope</key>
-<string>mcol_FFFFFFFF</string>
+<string>mcol_FF0000FF</string>
 <key>settings</key>
 <dict>
 <key>background</key>
-<string>#FFFFFFFF</string>
+<string>#FF0000FF</string>
 <key>foreground</key>
-<string>#000000FF</string>
+<string>#4C0000FF</string>
 <key>caret</key>
-<string>#000000FF</string>
+<string>#4C0000FF</string>
 </dict>
 </dict>
 
@@ -32,15 +32,15 @@
 <key>name</key>
 <string>mon_text_color</string>
 <key>scope</key>
-<string>mcol_text_FFFFFFFF</string>
+<string>mcol_text_FF0000FF</string>
 <key>settings</key>
 <dict>
 <key>background</key>
 <string>#1b2b35FF</string>
 <key>foreground</key>
-<string>#FFFFFFFF</string>
+<string>#FF0000FF</string>
 <key>caret</key>
-<string>#000000FF</string>
+<string>#4C0000FF</string>
 </dict>
 </dict>
 
@@ -64,7 +64,45 @@
 				<key>lineHighlight</key>
 				<string>#ffffff10</string>
 				<key>popupCss</key>
-				<string>html { background-color: #2d3c44; color: #cdd3de; } a { color: #6699cc; } .error, .deleted { color: #ec5f67; } .success, .inserted, .name { color: #99c794; } .warning, .modified { color: #fac863; } .type { color: #5fb3b3; font-style: italic; } .param { color: #f99157; } .current { text-decoration: underline; }</string>
+				<string>
+html {
+  background-color: #2d3c44;
+  color: #cdd3de;
+}
+
+a {
+  color: #6699cc;
+}
+
+.error,
+.deleted {
+  color: #ec5f67;
+}
+
+.success,
+.inserted,
+.name {
+  color: #99c794;
+}
+
+.warning,
+.modified {
+  color: #fac863;
+}
+
+.type {
+  color: #5fb3b3;
+  font-style: italic;
+}
+
+.param {
+  color: #f99157;
+}
+
+.current {
+  text-decoration: underline;
+}
+</string>
 				<key>selection</key>
 				<string>#ffffff16</string>
 				<key>selectionBorder</key>

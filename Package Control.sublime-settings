@@ -1,5 +1,8 @@
 {
 	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
 	"installed_packages":
 	[
 		"1337 Color Scheme",
@@ -9,6 +12,7 @@
 		"BracketHighlighter",
 		"Color Highlighter",
 		"ColorPicker",
+		"Crystal",
 		"DoxyDoc",
 		"Emmet",
 		"Git",
@@ -18,13 +22,15 @@
 		"Jade Snippets",
 		"Language - French - Français",
 		"Markdown Extended",
+		"Markdown Preview",
 		"MarkdownLight",
 		"Merlin",
 		"Oddly",
 		"Package Control",
 		"SCSS",
 		"SideBarEnhancements",
-		"Theme - Piatto"
+		"Theme - Piatto",
+		"Vuejs Complete Package"
 	],
 	"repositories":
 	[
