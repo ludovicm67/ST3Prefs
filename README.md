@@ -56,6 +56,12 @@ Raccourcis permettant d'écrire des éléments assez longs, et qu'on a souvent b
 ## Raccourcis
 
  * `CTRL + ALT + A` => Utilise Alignment pour aligner certains éléments
+ * En appuyant sur `F4` dans une classe PHP, cela va ajouter le bon namespace en haut du fichier
+ * En appuyant sur `F5` en ayant le curseur sur le nom d'une classe PHP, cela va ajouter un `use` en début de fichier
+ * En appuyant sur `F6` en ayant écrit le nom d'une classe, ça va compléter avec le chemin complet
+ * En appuyant sur `MAJ+F6` en ayant écrit le nom d'une classe, ça va compléter avec le chemin complet, en commençant par `\`
+ * En appuyant sur `F7` ça va ajouter un nouvel attribut à la classe PHP, en ajoutant automatiquement au constructeur un argument supplémentaire
+ * `MAJ+F12` sur une méthode PHP pour tomber sur sa définition
 
 
 N'hésitez surtout pas à utiliser et à personnaliser ces préférences à votre convenance !
