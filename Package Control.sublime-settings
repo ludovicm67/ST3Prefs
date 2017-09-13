@@ -5,42 +5,17 @@
 	],
 	"installed_packages":
 	[
-		"1337 Color Scheme",
+		"A File Icon",
 		"AdvancedNewFile",
 		"Alignment",
-		"All Autocomplete",
 		"Boxy Theme",
-		"BracketHighlighter",
-		"Color Highlighter",
-		"ColorPicker",
-		"Crystal",
-		"DoxyDoc",
+		"DuplicateSelections",
 		"EditorConfig",
-		"Emmet",
 		"Git",
+		"GitGutter",
 		"Hayaku - tools for writing CSS faster",
-		"INI",
-		"Jade",
-		"Jade Snippets",
-		"JSHint Gutter",
-		"Language - French - Français",
-		"Laravel Blade Highlighter",
-		"Markdown Extended",
-		"Markdown Preview",
-		"MarkdownLight",
-		"Merlin",
-		"MIPS Syntax",
-		"Oddly",
 		"Package Control",
 		"PHP Companion",
-		"PHP-Twig",
-		"SCSS",
-		"SideBarEnhancements",
-		"Theme - Piatto",
-		"Vuejs Complete Package"
-	],
-	"repositories":
-	[
-		"https://github.com/titoBouzout/SideBarEnhancements/tree/st3"
+		"SideBarEnhancements"
 	]
 }
