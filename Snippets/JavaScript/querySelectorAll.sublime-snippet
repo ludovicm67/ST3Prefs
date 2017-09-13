@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[querySelectorAll('$1')]]></content>
-	<tabTrigger>qsa</tabTrigger>
-	<scope>source.js</scope>
+  <content><![CDATA[querySelectorAll('$1')]]></content>
+  <tabTrigger>qsa</tabTrigger>
+  <scope>source.js</scope>
 </snippet>

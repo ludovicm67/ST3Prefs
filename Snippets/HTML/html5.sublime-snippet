@@ -1,21 +1,21 @@
 <snippet>
-	<content><![CDATA[
+  <content><![CDATA[
 <!DOCTYPE html>
 <html lang="fr">
 <head>
-	<meta charset="utf-8">
-	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no, minimal-ui">
-	<title>${1:Mon super titre}</title>
-	<link rel="stylesheet" href="${2:css/style.css}">
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no, minimal-ui">
+<title>${1:Mon super titre}</title>
+<link rel="stylesheet" href="${2:css/style.css}">
 </head>
 <body>
-	<div>
-		${4:Mon super contenu}
-	</div>
-	<script src="${3:js/app.js}"></script>
+  <div>
+    ${4:Mon super contenu}
+  </div>
+  <script src="${3:js/app.js}"></script>
 </body>
 </html>
 ]]></content>
-	<tabTrigger>html5</tabTrigger>
-	<scope>text.html</scope>
+  <tabTrigger>html5</tabTrigger>
+  <scope>text.html</scope>
 </snippet>

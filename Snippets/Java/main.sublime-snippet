@@ -1,9 +1,9 @@
 <snippet>
-	<content><![CDATA[
+  <content><![CDATA[
 public static void main (String [] args) {
-	$1
+  $1
 }
 ]]></content>
-	<scope>source.java</scope>
-	<tabTrigger>main</tabTrigger>
+  <scope>source.java</scope>
+  <tabTrigger>main</tabTrigger>
 </snippet>

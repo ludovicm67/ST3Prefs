@@ -1,9 +1,9 @@
 <snippet>
-	<content><![CDATA[
+  <content><![CDATA[
 public class ${1:ClassName} {
-	$2
+  $2
 }
 ]]></content>
-	<scope>source.java</scope>
-	<tabTrigger>pc</tabTrigger>
+  <scope>source.java</scope>
+  <tabTrigger>pc</tabTrigger>
 </snippet>

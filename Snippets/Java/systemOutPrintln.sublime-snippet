@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[System.out.println($1)]]></content>
-	<scope>source.java</scope>
-	<tabTrigger>sop</tabTrigger>
+  <content><![CDATA[System.out.println($1)]]></content>
+  <scope>source.java</scope>
+  <tabTrigger>sop</tabTrigger>
 </snippet>

@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[document.]]></content>
-	<tabTrigger>dd</tabTrigger>
-	<scope>source.js</scope>
+  <content><![CDATA[document.]]></content>
+  <tabTrigger>dd</tabTrigger>
+  <scope>source.js</scope>
 </snippet>

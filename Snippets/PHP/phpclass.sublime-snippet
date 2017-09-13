@@ -1,10 +1,10 @@
 <snippet>
-	<content><![CDATA[
+  <content><![CDATA[
 
 class ${2:ClassName}${3: extends AnotherClass} {
-	$4
+  $4
 }
 ]]></content>
-    <scope>source.php</scope>
-	<tabTrigger>cl</tabTrigger>
+  <scope>source.php</scope>
+  <tabTrigger>cl</tabTrigger>
 </snippet>

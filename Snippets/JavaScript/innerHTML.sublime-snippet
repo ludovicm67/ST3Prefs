@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[innerHTML]]></content>
-	<scope>source.js</scope>
-	<tabTrigger>ih</tabTrigger>
+  <content><![CDATA[innerHTML]]></content>
+  <scope>source.js</scope>
+  <tabTrigger>ih</tabTrigger>
 </snippet>
